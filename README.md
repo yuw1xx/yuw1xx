@@ -15,6 +15,7 @@ I believe in making great tech accessible. I've contributed **Czech (🇨🇿)**
 - 📱 [**Kvaesitso**](https://github.com/MM2-0/Kvaesitso) — Kvaesitso is a search focused, free and open source launcher for Android.
 - 🎵 [**Gramophone**](https://github.com/FoedusProgramme/Gramophone) — A modern, material-designed music player.
 - 📺 [**MoeList**](https://github.com/axiel7/MoeList/) — An elegant client for tracking anime and manga.
+- 📺 [**AniHyou**](https://github.com/axiel7/AniHyou-android) — Another unofficial Android AniList client.
 
 ---
 
