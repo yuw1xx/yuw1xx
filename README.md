@@ -12,7 +12,7 @@
 ### 🌍 Open Source & Translations
 I believe in making great tech accessible. I've contributed **Czech (🇨🇿)** and **Slovak (🇸🇰)** localizations for several popular projects:
 - 📱 [**Niagara Launcher**](https://github.com/NiagaraLauncher/Niagara-Issues) — A minimalist, ergonomic Android launcher.
-- - 📱 [**Kvaesitso**](https://github.com/MM2-0/Kvaesitso) — Kvaesitso is a search focused, free and open source launcher for Android.
+- 📱 [**Kvaesitso**](https://github.com/MM2-0/Kvaesitso) — Kvaesitso is a search focused, free and open source launcher for Android.
 - 🎵 [**Gramophone**](https://github.com/FoedusProgramme/Gramophone) — A modern, material-designed music player.
 - 📺 [**MoeList**](https://github.com/axiel7/MoeList/) — An elegant client for tracking anime and manga.
 
