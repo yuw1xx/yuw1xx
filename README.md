@@ -7,7 +7,7 @@
 ### 🛠️ What I'm working on
 - 🌐 [**yuwixx.dev**](https://yuwixx.dev/) — My personal website and portfolio.
 - 🔍 [**yuwixx.dev/search**](https://yuwixx.dev/search) — A custom-built search implementation.
-- 🐧 **LAMP Manager** — A simple CLI utility for managing Linux web stacks (Apache, MySQL, PHP).
+- 🐧 [**LAMP Manager**](https://github.com/yuw1xx/lamp) — A simple CLI utility for managing Linux web stacks (Apache, MySQL, PHP).
 
 ### 🌍 Open Source & Translations
 I believe in making great tech accessible. I've contributed **Czech (🇨🇿)** and **Slovak (🇸🇰)** localizations for several popular projects:
