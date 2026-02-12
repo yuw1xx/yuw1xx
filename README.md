@@ -6,6 +6,7 @@
 
 ### 🛠️ What I'm working on
 - 🌐 [**yuwixx.dev**](https://yuwixx.dev/) — My personal website and portfolio.
+- 📕 [**School Planner**](https://yuwixx.dev/school-planner) - My own FOSS school planner hosted on a website, inspired by [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 - 🔍 [**yuwixx.dev/search**](https://yuwixx.dev/search) — A custom-built search implementation.
 - 🐧 [**LAMP Manager**](https://github.com/yuw1xx/lamp) — A simple CLI utility for managing Linux web stacks (Apache, MySQL, PHP).
 
