@@ -1,16 +1,16 @@
-# 👋 Hi, I'm yuwixx
+# hewwoo, yuwixx here :3
 
-**Software Developer & Open Source Contributor** I enjoy building tools that simplify development and making software more accessible through localization.
+I'm a **Software Developer & Open Source Contributor** I enjoy building tools that simplify development and making software more accessible through localization. I love making my life easier, not because I'm lazy af, but because why make things difficult when I can make then easier? >:3
 
 ---
 
-### 🛠️ What I'm working on
+### My work (for now, more in the unforseen future)
 - 🌐 [**yuwixx.dev**](https://yuwixx.dev/) — My personal website and portfolio.
 - 📕 [**School Planner**](https://yuwixx.dev/school-planner) - My own FOSS school planner hosted on a website, inspired by [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 - 🔍 [**yuwixx.dev/search**](https://yuwixx.dev/search) — A custom-built search implementation.
 - 🐧 [**LAMP Manager**](https://github.com/yuw1xx/lamp) — A simple CLI utility for managing Linux web stacks (Apache, MySQL, PHP).
 
-### 🌍 Open Source & Translations
+### Open Source & Translations
 I believe in making great tech accessible. I've contributed **Czech (🇨🇿)** and **Slovak (🇸🇰)** localizations for several popular projects:
 - 📱 [**Niagara Launcher**](https://github.com/NiagaraLauncher/Niagara-Issues) — A minimalist, ergonomic Android launcher.
 - 📱 [**Kvaesitso**](https://github.com/MM2-0/Kvaesitso) — Search focused, free and open source launcher for Android.
@@ -20,7 +20,7 @@ I believe in making great tech accessible. I've contributed **Czech (🇨🇿)**
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Frontend & Design** (Since 2019)<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,12 +32,12 @@ I believe in making great tech accessible. I've contributed **Czech (🇨🇿)**
 
 ---
 
-### 📈 My Journey
+### My Journey (nyot very interesting, and i also don't remember lot of stuff :3)
 * **2019:** Wrote my first lines of HTML and CSS.
 * **2022:** Started developing software with C#.
 * **2024:** Expanded into full-stack web development with JavaScript and PHP.
 * **2025:** Currently mastering Java and exploring Python for automation.
 
-### 📫 Connect with me
+### Contact me! (through my website, i want those visits)
 * **Website:** [yuwixx.dev](https://yuwixx.dev/)
 * **GitHub:** [@yuwixx](https://github.com/yuw1xx)
