@@ -34,12 +34,6 @@ I believe in making great tech accessible. I've contributed **Czech (🇨🇿)**
 
 ---
 
-### My Journey (nyot very interesting, and i also don't remember lot of stuff :3)
-* **2019:** Wrote my first lines of HTML and CSS.
-* **2022:** Started developing software with C#.
-* **2024:** Expanded into full-stack web development with JavaScript and PHP.
-* **2025:** Currently mastering Java and exploring Python for automation.
-
 ### Contact me! (through my website, i want those visits)
 * **Website:** [yuwixx.dev](https://yuwixx.dev/)
 * **GitHub:** [@yuwixx](https://github.com/yuw1xx)
