@@ -36,4 +36,4 @@ I believe in making great tech accessible. I've contributed **Czech (🇨🇿)**
 
 ### Contact me! (through my website, i want those visits)
 * **Website:** [yuwixx.dev](https://yuwixx.dev/)
-* **GitHub:** [@yuwixx](https://github.com/yuw1xx)
+* **GitHub:** [@yuw1xx](https://github.com/yuw1xx)
